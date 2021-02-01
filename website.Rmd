@@ -65,7 +65,9 @@ During my High School years I spent a large chunk of my time doing volunteer wor
 
 ## Eagle Scouts
 
+:::{.box1}
 In order to earn the rank of eagle scout, it was necessary to earn some 3 dozen merit badges focusing on anything from personal finance to lifesaving, and then finished with running my own service project. I chose to coordinate the construction of a brick sidewalk for local VFW 423. In order to accomplish this, I had to campaign local construction companies for the donation of bricks and peat gravel, and to fundraise for necessary tools and refreshments to benefit the volunteer scouts. Construction took two days to complete, and there were an additional dozen or so other days spent planning and insuring the walkway would stay in good shape after its completion. At the end of the project I presented it to the local Eagle Scouts Board of Reviews to get their approval for the project's completion.
+:::
 
 # Projects
 
