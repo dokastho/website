@@ -1,0 +1,97 @@
+---
+title: "Professional Portfolio"
+author: "Thomas Dokas"
+date: "tjdokas@gmail.com | dokastho@umich.edu"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    theme: lumen
+    css: assets/styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Education
+
+:::{.box1}
+I currently study at the University of Michigan as a Computer Science & Engineering major and Mathematics minor. I have a burgeoning specialization in probability and machine learning, though that is little more than an interest at this time, with the intent to pursue those fields more as I grow farther afield.
+:::
+
+:::{.box2}
+**GPA:** 3.33
+:::
+
+:::{.box1}
+As well as being a student of the College of Engineering, I am also a student athlete, competing regularly in cycling as a representative of the University of Michigan
+:::
+![The cycling team](assets/images/mcycling.jpg)
+
+# Experience
+
+[Research has shown](https://www.youtube.com/watch?v=NWv1VdDeoRY) that having a growth mindset focused around putting in effort and challenging yourself is far more effective than focusing on being perceived as intelligent. This has always been my focus, and I believe that whether I'm working a summer job or in a professional environment, the most effective predictor of my success in that environment is the effort I've invested.
+
+## Summer Jobs
+
+:::{.box1}
+I first started working summers at 17, as a dishwasher at Zingerman's Roadhouse. For an introduction to the concept of working this job was perfect. I returned for the two following summers. Some of my best improvement from this position are as follows:
+
+1. Learning to work collaboratively with coworkers; when to ask for help and when to offer it
+2. Learning the importance of working smart, then working hard. This was a simple yet valuable lesson learned from something as rudimentary as dishwashing.
+3. Learning to adapt quickly to a work environment by triaging the facets of the position and which duties are and aren't my responsibility.
+:::
+
+## Professional Experience
+Though new to the workforce as a Computer Science student, I believe my time spent during summer jobs have prepared me well for the corporate aspects of employment. This has been reflected in my positions to date, and I am eager to continue my experience as a Computer Science Engineer.
+
+:::{.box1}
+***MBNI***
+
+My professional work experience began here in Ann Arbor at the University of Michigan Molecular and Behavioral Neuroscience Institute, as a programming temp. I've worked with them for just over six months as of 2/1/2021, and I can say that my time spent dishwashing was far more relevant to this position than I could have expected. I've learned a great deal about linear regression and statistics in a very short amount of time at this position, and thanks to the work ethic I developed over the previous three summers I was able to learn and apply that knowledge quickly and effectively. 
+
+At this position I am working with the guidance of my supervisor to organize and present data to the Office of Naval Research. We are using fitbit data to measure the activity levels of freshmen here at the university to see if that information can be a viable predictor of depression in the 19-21 year old population.
+:::
+
+# Volunteer Work
+
+During my High School years I spent a large chunk of my time doing volunteer work for a variety of organizations. Between the BSA, symphonic and marching band, National Honors Society, and track * XC teams, I committed over 500 hours of community service starting at age 12 with the BSA. Some notable inclusions to those are listed below.
+
+- Serving as Senior Patrol Leader of my scout troop during the years of 2018-19. This position required years of leadership skills that I cultivated in lower positions, and some of the duties included planning events, assigning project leaders for service projects and troop outings, coordinating with a cabinet of patrol leaders and Assistant Senior Patrol Leaders to satisfy the goals of the adult leadership while also keeping the interests of the scouts a priority. This was often a tough challenge, as the adults tended to be very achievement-driven, which while important often clashed with the wishes of the scouts, who were there primarily to have a fun time, so compromise was key.
+- Conducting the annual leaf raking day for the First Presbyterian Church of Ann Arbor for the years of 2018 and 2019. During these days about 20 or 30 scouts would work with church members to clear a surprising amount of leaves from their grounds. Notable challenges of this project included securing enough tools for everyone to use and to ensure that everyone wore the proper attire for raking wet leaves in the subzero temperatures of November.
+- Helping lead a few Track and XC banquets and fundraisers during the years of 2018 and 2019. I worked in direct collaboration with team captains and coaches to prepare the end of the season banquets and helped to fundraise a team raffle to afford new team equipment in 2019.
+
+## Eagle Scouts
+
+In order to earn the rank of eagle scout, it was necessary to earn some 3 dozen merit badges focusing on anything from personal finance to lifesaving, and then finished with running my own service project. I chose to coordinate the construction of a brick sidewalk for local VFW 423. In order to accomplish this, I had to campaign local construction companies for the donation of bricks and peat gravel, and to fundraise for necessary tools and refreshments to benefit the volunteer scouts. Construction took two days to complete, and there were an additional dozen or so other days spent planning and insuring the walkway would stay in good shape after its completion. At the end of the project I presented it to the local Eagle Scouts Board of Reviews to get their approval for the project's completion.
+
+# Projects
+
+I have spent countless hours working on a vast variety of projects, both of personal interest and professional interest (often with some significant overlap of the two). Each project dramatically improved my understanding of the intrinsic subject matter, and bettered my appreciation of those fields.
+
+## Professionals
+
+These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them
+
+## Hobbies
+in no particular order
+
+1. Building my own road bike. Purchased the parts secondhand with my savings in 2020 and built the bike from scratch. I use this bike now for training and soon for competitions across the US
+2. Building my own server. Purchased the parts secondhand with my savings in 2017, did some basic motherboard pin repair and networked the second floor of my house to set up the server that this website is hosted on. Currently making plans to make it a k8s cluster, storage management using glusterfs over rdma and managed by docker.
+3. Hosting my own vanilla and modded minecraft server using Docker for my friends
+4. Hosting a fileshare server using the opensource Nextcloud software, hosted using a LAMP configuration. I use this to store all of my schoolwork and workwork
+5. Briefly hosting a mailserver using a MAMP configuration with dovecot and postfix, and legitamized using SPF and DKIM. I had to use a mail relay because my ISP wouldn't let me open port 25 for some fairly good reasons, but unfortunately it was too expensive to keep using so I got rid of it.
+6. Hosting a VPN to SSH into the server for security purposes
+7. Using the server for remote development using VSCode
+8. Building a bunch of PC's over the years both for me and my friends, culminating in interesting stuff like [Hardline watercooling](https://www.avadirect.com/blog/hardline-liquid-cooling-a-pc/)
+9. Donating food to a local homeless shelter after work instead of tossing it
+
+# Links
+
+*[linkedin](https://www.linkedin.com/in/thomas-dokas-8a078a1b3/)*
+
+*[github](https://www.github.com/dokastho)*
+
+
