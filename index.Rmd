@@ -1,6 +1,5 @@
 ---
-title: "Professional Portfolio"
-author: "Thomas Dokas"
+title: "Thomas Dokas Professional Portfolio"
 date: "tjdokas@gmail.com | dokastho@umich.edu"
 output: 
   html_document:
@@ -9,11 +8,20 @@ output:
     toc_collapsed: true
     theme: lumen
     css: assets/styles.css
+    icon: assets/images/mcycling.jpg
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# About Me
+
+![](assets/images/aboutme.png)
+
+Hello! I am a 19 year old UMich student who was born and raised in Ann Arbor with a love for sports and some healthy competition. During High school I competed regularly in track and cross-country, and split my time evenly between those, band, school, and boy scouts. Nowadays I spend a lot of time working on/enjoying my major and minor, working at the wonderful Molecular and Behavioral Neuroscience Institute, keeping in good shape for the UMich Collegiate Cycling team and eating up my free time with various side projects. On to the more serious stuff!
+
+I tend to be challenge driven, meaning if I fall short of a goal on the first attempt I continue to approach the problem from different angles until that problem is solved. Whether it's coming back from repeated injuries for the first two years of my high school track career or starting my eagle project from scratch out of frustration with my original sponsor to transferring into the school of my dreams, I refuse to let my shortcomings make my decisions for me. Just recently in my first semester, I struggled immensely with Discrete math, and as a result had to take it again the following semester. In the spirit of reproaching the problem I enrolled in an additional course in probability, and thanks to that I have all but cemented my understanding of the two courses and am eager to get back on track with my Major.
 
 # Education
 
@@ -22,7 +30,7 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 :::
 
 :::{.box2}
-**GPA:** 3.33
+**GPA:** 3.33 | [Transcript](assets/files/transcript.pdf)
 :::
 
 :::{.box1}
@@ -67,6 +75,12 @@ During my High School years I spent a large chunk of my time doing volunteer wor
 
 :::{.box1}
 In order to earn the rank of eagle scout, it was necessary to earn some 3 dozen merit badges focusing on anything from personal finance to lifesaving, and then finished with running my own service project. I chose to coordinate the construction of a brick sidewalk for local VFW 423. In order to accomplish this, I had to campaign local construction companies for the donation of bricks and peat gravel, and to fundraise for necessary tools and refreshments to benefit the volunteer scouts. Construction took two days to complete, and there were an additional dozen or so other days spent planning and insuring the walkway would stay in good shape after its completion. At the end of the project I presented it to the local Eagle Scouts Board of Reviews to get their approval for the project's completion.
+
+![This is an overhead view of the Post. You can see the helicopter where the path was built (top left), as well as the two story board playforms (right)](assets/images/bsa1.PNG)
+
+![Here you can see the path being built by the wonderful volunteers from friends, family and troop](assets/images/bsa2.jpg)
+
+![This is the path as it was coming to a close, with a monogrammed portion for the Post](assets/images/bsa3.jpg)
 :::
 
 # Projects
@@ -74,26 +88,36 @@ In order to earn the rank of eagle scout, it was necessary to earn some 3 dozen 
 I have spent countless hours working on a vast variety of projects, both of personal interest and professional interest (often with some significant overlap of the two). Each project dramatically improved my understanding of the intrinsic subject matter, and bettered my appreciation of those fields.
 
 ## Professionals
+::: {.box1}
+These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them. Pictured below are samples of my personal code along with their github repos
 
-These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them
+1. Showcase of C++ proficiency from EECS 280. (Programming and Introductory Data Structures) This project takes the form of a cli short game about cruise ships and pirates 
+
+![](assets/images/cruise_ships.png) 
+
+[Github Repo](https://github.com/dokastho/cruise-ships)
+
+2. Working directory of my current project at MBNI sponsored by the ONR [Github Repo](https://github.com/dokastho/freshmanFitbit-thomas)
+:::
 
 ## Hobbies
 in no particular order
 
 1. Building my own road bike. Purchased the parts secondhand with my savings in 2020 and built the bike from scratch. I use this bike now for training and soon for competitions across the US
 2. Building my own server. Purchased the parts secondhand with my savings in 2017, did some basic motherboard pin repair and networked the second floor of my house to set up the server that this website is hosted on. Currently making plans to make it a k8s cluster, storage management using glusterfs over rdma and managed by docker.
-3. Hosting my own vanilla and modded minecraft server using Docker for my friends
-4. Hosting a fileshare server using the opensource Nextcloud software, hosted using a LAMP configuration. I use this to store all of my schoolwork and workwork
-5. Briefly hosting a mailserver using a MAMP configuration with dovecot and postfix, and legitamized using SPF and DKIM. I had to use a mail relay because my ISP wouldn't let me open port 25 for some fairly good reasons, but unfortunately it was too expensive to keep using so I got rid of it.
-6. Hosting a VPN to SSH into the server for security purposes
-7. Using the server for remote development using VSCode
-8. Building a bunch of PC's over the years both for me and my friends, culminating in interesting stuff like [Hardline watercooling](https://www.avadirect.com/blog/hardline-liquid-cooling-a-pc/)
-9. Donating food to a local homeless shelter after work instead of tossing it
+3. Hosting my own open-source git remote server, though made a bit obsolete thanks to remotely coding on the same server.
+4. Hosting my own vanilla and modded minecraft server using Docker for my friends
+5. Hosting a fileshare server using the opensource Nextcloud software, hosted using a LAMP configuration. I use this to store all of my schoolwork and workwork
+6. Briefly hosting a mailserver using a MAMP configuration with dovecot and postfix, and legitamized using SPF and DKIM. I had to use a mail relay because my ISP wouldn't let me open port 25 for some fairly good reasons, but unfortunately it was too expensive to keep using so I got rid of it.
+7. Hosting a VPN to SSH into the server for security purposes
+8. Using the server for remote development using VSCode
+9. Building a bunch of PC's over the years both for me and my friends, culminating in interesting stuff like [Hardline watercooling](https://www.avadirect.com/blog/hardline-liquid-cooling-a-pc/)
+10. Donating food to a local homeless shelter after work instead of tossing it
+11. Assembled, Soldered and burned firmware into a mechanical keyboard
 
 # Links
 
-*[linkedin](https://www.linkedin.com/in/thomas-dokas-8a078a1b3/)*
-
+*[linkedin](https://www.linkedin.com/in/thomas-dokas-8a078a1b3/)* |
 *[github](https://www.github.com/dokastho)*
 
 
