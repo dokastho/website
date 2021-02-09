@@ -26,11 +26,11 @@ I tend to be challenge driven, meaning if I fall short of a goal on the first at
 # Education
 
 :::{.box1}
-I currently study at the University of Michigan as a Computer Science & Engineering major and Mathematics minor. I have a burgeoning specialization in probability and machine learning, though that is little more than an interest at this time, with the intent to pursue those fields more as I grow farther afield.
+I currently study at the University of Michigan as a Computer Science & Engineering major and Mathematics minor. I have a burgeoning specialization in probability and machine learning, though that is little more than an interest at this time, with the intent to pursue those fields more as I grow farther afield. I first began my college experience at MSU, then transferred to UM upon completion of my first year at MSU.
 :::
 
 :::{.box2}
-**GPA:** 3.33 | [Transcript](assets/files/transcript.pdf)
+**UMICH GPA:** 3.33 | [Transcript](assets/files/transcript.pdf) | **MSU GPA** 3.89 | [MSU Transcript]() 
 
 Relevant Coursework:
 
