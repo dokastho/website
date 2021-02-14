@@ -35,7 +35,7 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 Relevant Coursework:
 
 - [Multivariable & Vector Calculus (MATH215)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
-- [Introduction to Differential Equations (MATH215)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
+- [Introduction to Differential Equations (MATH216)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
 - [Applied Linear Algebra (MATH214)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
 - [Introduction to Probability (MATH425)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/400-level-courses.html)
 - [Programming and Introductory Data Structures (EECS280)](https://bulletin.engin.umich.edu/courses/eecs/)
