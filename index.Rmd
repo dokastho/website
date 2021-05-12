@@ -30,7 +30,7 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 :::
 
 :::{.box2}
-**UMICH GPA:** 3.33 | [Transcript](assets/files/transcript.pdf) | **MSU GPA** 3.89 | [MSU Transcript]() 
+**UMICH GPA:** 3.30 | [Transcript](assets/files/transcript.pdf) | **MSU GPA** 3.89 | [MSU Transcript]() 
 
 Relevant Coursework:
 
