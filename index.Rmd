@@ -34,12 +34,13 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 
 Relevant Coursework:
 
+- [Data Structures and Algorithms (EECS281)](https://bulletin.engin.umich.edu/courses/eecs/)
+- [Programming and Introductory Data Structures (EECS280)](https://bulletin.engin.umich.edu/courses/eecs/)
+- [Discrete Mathematics (EECS203)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Multivariable & Vector Calculus (MATH215)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
 - [Introduction to Differential Equations (MATH216)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
 - [Applied Linear Algebra (MATH214)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
 - [Introduction to Probability (MATH425)](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/400-level-courses.html)
-- [Programming and Introductory Data Structures (EECS280)](https://bulletin.engin.umich.edu/courses/eecs/)
-- [Discrete Mathematics (EECS203)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Introduction to Statistics and Data Analysis (STATS250)](https://lsa.umich.edu/stats/undergraduate-students/statistics-courses.html)
 :::
 
