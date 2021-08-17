@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](assets/images/aboutme.png)
 
-Hello! I am a 19 year old UMich student who was born and raised in Ann Arbor with a love for sports and some healthy competition. During High school I competed regularly in track and cross-country, and split my time evenly between those, band, school, and boy scouts. Nowadays I spend a lot of time working on/enjoying my major and minor, working at the wonderful Molecular and Behavioral Neuroscience Institute, keeping in good shape for the UMich Collegiate Cycling team and eating up my free time with various side projects. On to the more serious stuff!
+Hello! I am a 19 year old UMich student who was born and raised in Ann Arbor with a love for sports and some healthy competition. During High school I competed regularly in track and cross-country, and split my time evenly between those, band, school, and boy scouts. Nowadays I spend a lot of time working on/enjoying my major and minor, working at the Molecular and Behavioral Neuroscience Institute, keeping in good shape for the UMich Collegiate Cycling team and eating up my free time with various side projects. On to the more serious stuff!
 
-I tend to be challenge driven, meaning if I fall short of a goal on the first attempt I continue to approach the problem from different angles until that problem is solved. Whether it's coming back from repeated injuries for the first two years of my high school track career or starting my eagle project from scratch out of frustration with my original sponsor to transferring into the school of my dreams, I refuse to let my shortcomings make my decisions for me. Just recently in my first semester, I struggled immensely with Discrete math, and as a result had to take it again the following semester. In the spirit of reproaching the problem I enrolled in an additional course in probability, and thanks to that I have all but cemented my understanding of the two courses and am eager to get back on track with my Major.
+I tend to be challenge driven, meaning if I fall short of a goal on the first attempt I will continue to approach the problem from different angles until I have found a solution. Whether it's coming back from repeated injuries for the first two years of high school track, or restarting my eagle project out of frustration with my original sponsor, to transferring into the school of my dreams, I refuse to let my shortcomings make my decisions for me. Just recently in my first semester, I struggled immensely with my Discrete math coursework, and as a result had to retake the class following semester. In the spirit of reproaching the problem I enrolled in an additional course in probability, and thanks to that I have all but cemented my understanding of the two courses and am eager to get back on track with my Major.
 
 # Education
 
@@ -48,19 +48,23 @@ Relevant Coursework:
 As well as being a student of the College of Engineering, I am also a student athlete, competing regularly in cycling as a representative of the University of Michigan
 :::
 ![The cycling team](assets/images/mcycling.jpg)
+:::
+![Some photos of me with an Ann Arbor club](assets/images/biking1.jpeg)
+![](assets/images/biking2.jpeg)
 
-# Experience
+## Experience
 
 [Research has shown](https://www.youtube.com/watch?v=NWv1VdDeoRY) that having a growth mindset focused around putting in effort and challenging yourself is far more effective than focusing on being perceived as intelligent. This has always been my focus, and I believe that whether I'm working a summer job or in a professional environment, the most effective predictor of my success in that environment is the effort I've invested.
 
 ## Summer Jobs
 
 :::{.box1}
-I first started working summers at 17, as a dishwasher at Zingerman's Roadhouse. For an introduction to the concept of working this job was perfect. I returned for the two following summers. Some of my best improvement from this position are as follows:
+I started working summers as a 17 year old to be able to be financially responsible of my own hobbies and trivial expenses. I began as a dishwasher, and continued for a few summers at that position. Most recently I have been working as a server at Avalon Cafe in Ann Arbor, and have been both very successful and very satisfied occupying that position.
+Some noteworthy details:
 
-1. Learning to work collaboratively with coworkers; when to ask for help and when to offer it
-2. Learning the importance of working smart, then working hard. This was a simple yet valuable lesson learned from something as rudimentary as dishwashing.
-3. Learning to adapt quickly to a work environment by triaging the facets of the position and which duties are and aren't my responsibility.
+- Completed training two days ahead of schedule
+- Within my first week as an independent employee I was the top seller during a shift
+- I've bolstered my interpersonal skills and grown some robust salesmenship skills within the first month at this position
 :::
 
 ## Professional Experience
@@ -69,9 +73,9 @@ Though new to the workforce as a Computer Science student, I believe my time spe
 :::{.box1}
 ***MBNI***
 
-My professional work experience began here in Ann Arbor at the University of Michigan Molecular and Behavioral Neuroscience Institute, as a programming temp. I've worked with them for just over six months as of 2/1/2021, and I can say that my time spent dishwashing was far more relevant to this position than I could have expected. I've learned a great deal about linear regression and statistics in a very short amount of time at this position, and thanks to the work ethic I developed over the previous three summers I was able to learn and apply that knowledge quickly and effectively. 
+My professional work experience began here in Ann Arbor at the University of Michigan Molecular and Behavioral Neuroscience Institute, as a programming intern. I spent a year as an employee there, and I can say I've learned a great deal about linear regression and statistics in a very short amount of time at this position. Thanks to the work ethic I developed over the previous three working summers I was able to learn and apply that knowledge quickly and effectively. 
 
-At this position I am working with the guidance of my supervisor to organize and present data to the Office of Naval Research. We are using fitbit data to measure the activity levels of freshmen here at the university to see if that information can be a viable predictor of depression in the 19-21 year old population.
+At this position I was the sole manager of longitudinal data sets of FitBit activity analytics. I worked under supervision to organize and present the data to the head of the lab, and will publish our findings to the American Journal of Psychiatry in the Fall after peer review.
 :::
 
 # Volunteer Work
@@ -102,11 +106,8 @@ I have spent countless hours working on a vast variety of projects, both of pers
 ::: {.box1}
 These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them. Pictured below are samples of my personal code along with their github repos
 
-1. Showcase of C++ proficiency from EECS 280. (Programming and Introductory Data Structures) This project takes the form of a cli short game about cruise ships and pirates 
-
-![](assets/images/cruise_ships.png) 
-
-[Github Repo](https://github.com/dokastho/cruise-ships)
+1. ![A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread](assets/images/tracker.png)
+[Github Repo](https://github.com/dokastho/s2021-p1-epidemiology)
 
 2. Working directory of my current project at MBNI sponsored by the ONR [Github Repo](https://github.com/dokastho/freshmanFitbit-thomas)
 :::
