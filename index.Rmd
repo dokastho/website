@@ -33,7 +33,11 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 **UMICH GPA:** 3.30 | [Transcript](assets/files/transcript.pdf) | **MSU GPA** 3.89 | [MSU Transcript]() 
 
 Relevant Coursework:
-
+Upcoming in the 2021 academic year:
+- [Foundations of Computer Science (EECS 376)](https://bulletin.engin.umich.edu/courses/eecs/)
+- [Introduction to Computer Organization (EECS 370)](https://bulletin.engin.umich.edu/courses/eecs/)
+- [Introduction to Algorithms (EECS 477)](https://bulletin.engin.umich.edu/courses/eecs/)- [Introduction to Artificial Intelligence (EECS 370)](https://bulletin.engin.umich.edu/courses/eecs/)
+Completed:
 - [Data Structures and Algorithms (EECS281)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Programming and Introductory Data Structures (EECS280)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Discrete Mathematics (EECS203)](https://bulletin.engin.umich.edu/courses/eecs/)
@@ -103,29 +107,30 @@ In order to earn the rank of eagle scout, it was necessary to earn some 3 dozen 
 I have spent countless hours working on a vast variety of projects, both of personal interest and professional interest (often with some significant overlap of the two). Each project dramatically improved my understanding of the intrinsic subject matter, and bettered my appreciation of those fields.
 
 ## Professionals
-::: {.box1}
+:::{.box1}
 These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them. Pictured below are samples of my personal code along with their github repos
 
-1. ![A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread](assets/images/tracker.png)
-[Github Repo](https://github.com/dokastho/s2021-p1-epidemiology)
-
-2. Working directory of my current project at MBNI sponsored by the ONR [Github Repo](https://github.com/dokastho/freshmanFitbit-thomas)
+1. A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread
+[]("https://github.com/dokastho/s2021-p1-epidemiology")
+2. An implementation of a hash table
+[]("https://github.com/dokastho/hash-table")
+3. An algorithm to heuristically solve the knapsack problem
+[]("https://github.com/dokastho/knapsack-snapshot")
+4. An implementation of a data type that I had no prior understanding of, namely a skip list
+[]("https://github.com/dokastho/skip-list")
+5. A demonstration of the benefits of dynamic programming
+[]("https://github.com/dokastho/fib-dp-snapshot")
 :::
-
 ## Hobbies
 in no particular order
 
 1. Building my own road bike. Purchased the parts secondhand with my savings in 2020 and built the bike from scratch. I use this bike now for training and soon for competitions across the US
-2. Building my own server. Purchased the parts secondhand with my savings in 2017, did some basic motherboard pin repair and networked the second floor of my house to set up the server that this website is hosted on. Currently making plans to make it a k8s cluster, storage management using glusterfs over rdma and managed by docker.
-3. Hosting my own open-source git remote server, though made a bit obsolete thanks to remotely coding on the same server.
-4. Hosting my own vanilla and modded minecraft server using Docker for my friends
-5. Hosting a fileshare server using the opensource Nextcloud software, hosted using a LAMP configuration. I use this to store all of my schoolwork and workwork
-6. Briefly hosting a mailserver using a MAMP configuration with dovecot and postfix, and legitamized using SPF and DKIM. I had to use a mail relay because my ISP wouldn't let me open port 25 for some fairly good reasons, but unfortunately it was too expensive to keep using so I got rid of it.
-7. Hosting a VPN to SSH into the server for security purposes
-8. Using the server for remote development using VSCode
-9. Building a bunch of PC's over the years both for me and my friends, culminating in interesting stuff like [Hardline watercooling](https://www.avadirect.com/blog/hardline-liquid-cooling-a-pc/)
-10. Donating food to a local homeless shelter after work instead of tossing it
-11. Assembled, Soldered and burned firmware into a mechanical keyboard
+2. Building my own server. Purchased the parts secondhand with my savings in 2017, did some basic motherboard pin repair and networked the second floor of my house to set up the server that this website is hosted on.
+3. Hosting various web-based applications on the aforementioned server
+4. Using the server for remote development using VSCode
+5. Building some PC's over the years both for me and my friends, culminating in interesting stuff like [Hardline watercooling](https://www.avadirect.com/blog/hardline-liquid-cooling-a-pc/)
+6. Donating food to a local homeless shelter after work instead of tossing it
+7. Assembled, soldered and burned firmware into a mechanical keyboard
 
 # Links
 
