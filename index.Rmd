@@ -111,15 +111,15 @@ I have spent countless hours working on a vast variety of projects, both of pers
 These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them. Pictured below are samples of my personal code along with their github repos
 
 1. A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread
-[]("https://github.com/dokastho/s2021-p1-epidemiology")
+[link]("https://github.com/dokastho/s2021-p1-epidemiology")
 2. An implementation of a hash table
-[]("https://github.com/dokastho/hash-table")
+[link]("https://github.com/dokastho/hash-table")
 3. An algorithm to heuristically solve the knapsack problem
-[]("https://github.com/dokastho/knapsack-snapshot")
+[link]("https://github.com/dokastho/knapsack-snapshot")
 4. An implementation of a data type that I had no prior understanding of, namely a skip list
-[]("https://github.com/dokastho/skip-list")
+[link]("https://github.com/dokastho/skip-list")
 5. A demonstration of the benefits of dynamic programming
-[]("https://github.com/dokastho/fib-dp-snapshot")
+[link]("https://github.com/dokastho/fib-dp-snapshot")
 :::
 ## Hobbies
 in no particular order
