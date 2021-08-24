@@ -34,10 +34,13 @@ I currently study at the University of Michigan as a Computer Science & Engineer
 
 Relevant Coursework:
 Upcoming in the 2021 academic year:
+
 - [Foundations of Computer Science (EECS 376)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Introduction to Computer Organization (EECS 370)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Introduction to Algorithms (EECS 477)](https://bulletin.engin.umich.edu/courses/eecs/)- [Introduction to Artificial Intelligence (EECS 370)](https://bulletin.engin.umich.edu/courses/eecs/)
+
 Completed:
+
 - [Data Structures and Algorithms (EECS281)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Programming and Introductory Data Structures (EECS280)](https://bulletin.engin.umich.edu/courses/eecs/)
 - [Discrete Mathematics (EECS203)](https://bulletin.engin.umich.edu/courses/eecs/)
@@ -110,16 +113,11 @@ I have spent countless hours working on a vast variety of projects, both of pers
 :::{.box1}
 These projects have been completed under my employment at MBNI, and during my time as a student at UofM. Some are locked at the request of the EECS department, please reach out to me personally if you would like to see them. Pictured below are samples of my personal code along with their github repos
 
-1. A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread
-[link]("https://github.com/dokastho/s2021-p1-epidemiology")
-2. An implementation of a hash table
-[link]("https://github.com/dokastho/hash-table")
-3. An algorithm to heuristically solve the knapsack problem
-[link]("https://github.com/dokastho/knapsack-snapshot")
-4. An implementation of a data type that I had no prior understanding of, namely a skip list
-[link]("https://github.com/dokastho/skip-list")
-5. A demonstration of the benefits of dynamic programming
-[link]("https://github.com/dokastho/fib-dp-snapshot")
+1. A disease tracking program that takes as input a list of names, dates, and genome sequences of a specific disease to track its spread [link](https://github.com/dokastho/s2021-p1-epidemiology)
+2. An implementation of a hash table [link](https://github.com/dokastho/hash-table)
+3. An algorithm to heuristically solve the knapsack problem [link](https://github.com/dokastho/knapsack-snapshot)
+4. An implementation of a data type that I had no prior understanding of, namely a skip list [link](https://github.com/dokastho/skip-list)
+5. A demonstration of the benefits of dynamic programming [link](https://github.com/dokastho/fib-dp-snapshot)
 :::
 ## Hobbies
 in no particular order
