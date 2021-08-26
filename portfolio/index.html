@@ -1,11 +1,33 @@
 <html>
 <Head>
     <link rel="stylesheet" href="styles.css">
-    <script src="script_file.js"></script>
+    <title>Test</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script type="text/javascript">
+        function getSnapshots() {
+            // alert('ok'); // remove once function is working
+            
+            fetch('https://github.com/dokastho/')
+            .then(res => res.blob()) // Gets the response and returns it as a blob
+            .then(blob => {
+                // Here's where you get access to the blob
+                // And you can use it for whatever you want
+                // Like calling ref().put(blob)
+
+                // Here, I use it to make an image appear on the page
+                let objectURL = URL.createObjectURL(blob);
+                let myText = blob.querySelectorAll('a[href*="snapshot"]');
+                document.getElementById('myTxt').appendChild(myText)
+            });
+        }
+
+        window.onload = getSnapshots;
+        </script>
 </Head>
 <body>
     <div>
-        <title>test</title>
+        <h1>test</h1>
     </div>
+    <div id='myTxt'></div>
 </body>
-</html>Î
+</html>
