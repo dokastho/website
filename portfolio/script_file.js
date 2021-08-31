@@ -35,8 +35,9 @@ const extractLinks = async (res) => {
     });
 
     // console.log(links);
-    // return links;
-    // console.log(links.toString())
+    // going to want to load index.html down below and update it here using cheerio.
+    // simply update the document's div with the snapshots/ projects, and add the
+    // sidebar either via a seperate function or inline
     res.end(links.toString().concat('\n'));
   } catch (error) {
     console.log(error.response.body);
@@ -44,9 +45,10 @@ const extractLinks = async (res) => {
 };
 
 const http = require('http');
+const fs = require('fs');
 
 http.createServer(function (req,res) {
     res.writeHead(200, {'Content-Type': 'text/plain'});
     extractLinks(res);
-}).listen(8088,'192.168.0.170');
-console.log('Server running at http://192.168.0.170:8088');
+}).listen(8088,'localhost');
+console.log('Server running at http://localhost:8088');
