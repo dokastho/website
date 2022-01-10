@@ -1,0 +1,374 @@
+2021-09-10T18:13:47: PM2 log: ===============================================================================
+2021-09-10T18:13:47: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-10T18:13:47: PM2 log: Time                 : Fri Sep 10 2021 18:13:47 GMT-0400 (Eastern Daylight Time)
+2021-09-10T18:13:47: PM2 log: PM2 version          : 5.1.1
+2021-09-10T18:13:47: PM2 log: Node.js version      : 10.19.0
+2021-09-10T18:13:47: PM2 log: Current arch         : x64
+2021-09-10T18:13:47: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-09-10T18:13:47: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-09-10T18:13:47: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-09-10T18:13:47: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-09-10T18:13:47: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-09-10T18:13:47: PM2 log: Worker Interval      : 30000
+2021-09-10T18:13:47: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-09-10T18:13:47: PM2 log: Concurrent actions   : 2
+2021-09-10T18:13:47: PM2 log: SIGTERM timeout      : 1600
+2021-09-10T18:13:47: PM2 log: ===============================================================================
+2021-09-10T18:13:47: PM2 log: PM2 successfully stopped
+2021-09-10T18:17:17: PM2 log: ===============================================================================
+2021-09-10T18:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-10T18:17:17: PM2 log: Time                 : Fri Sep 10 2021 18:17:17 GMT-0400 (Eastern Daylight Time)
+2021-09-10T18:17:17: PM2 log: PM2 version          : 5.1.1
+2021-09-10T18:17:17: PM2 log: Node.js version      : 10.19.0
+2021-09-10T18:17:17: PM2 log: Current arch         : x64
+2021-09-10T18:17:17: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-09-10T18:17:17: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-09-10T18:17:17: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-09-10T18:17:17: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-09-10T18:17:17: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-09-10T18:17:17: PM2 log: Worker Interval      : 30000
+2021-09-10T18:17:17: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-09-10T18:17:17: PM2 log: Concurrent actions   : 2
+2021-09-10T18:17:17: PM2 log: SIGTERM timeout      : 1600
+2021-09-10T18:17:17: PM2 log: ===============================================================================
+2021-09-24T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-24T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-25T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-25T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-26T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-26T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-27T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-27T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-28T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-28T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-29T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-29T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-09-30T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-09-30T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-01T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-01T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-02T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-02T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-03T18:17:18: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-03T18:17:18: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-03T21:52:55: PM2 log: PM2 successfully stopped
+2021-10-03T21:55:23: PM2 log: ===============================================================================
+2021-10-03T21:55:23: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-10-03T21:55:23: PM2 log: Time                 : Sun Oct 03 2021 21:55:23 GMT-0400 (Eastern Daylight Time)
+2021-10-03T21:55:23: PM2 log: PM2 version          : 5.1.1
+2021-10-03T21:55:23: PM2 log: Node.js version      : 10.19.0
+2021-10-03T21:55:23: PM2 log: Current arch         : x64
+2021-10-03T21:55:23: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-10-03T21:55:23: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-10-03T21:55:23: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-10-03T21:55:23: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-10-03T21:55:23: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-10-03T21:55:23: PM2 log: Worker Interval      : 30000
+2021-10-03T21:55:23: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-10-03T21:55:23: PM2 log: Concurrent actions   : 2
+2021-10-03T21:55:23: PM2 log: SIGTERM timeout      : 1600
+2021-10-03T21:55:23: PM2 log: ===============================================================================
+2021-10-04T21:55:24: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-04T21:55:24: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-05T21:55:24: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-05T21:55:24: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-06T21:55:24: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-06T21:55:24: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-07T21:55:24: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-07T21:55:24: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-07T22:24:26: PM2 log: PM2 successfully stopped
+2021-10-07T22:27:46: PM2 log: ===============================================================================
+2021-10-07T22:27:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-10-07T22:27:46: PM2 log: Time                 : Thu Oct 07 2021 22:27:46 GMT-0400 (Eastern Daylight Time)
+2021-10-07T22:27:46: PM2 log: PM2 version          : 5.1.1
+2021-10-07T22:27:46: PM2 log: Node.js version      : 10.19.0
+2021-10-07T22:27:46: PM2 log: Current arch         : x64
+2021-10-07T22:27:46: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-10-07T22:27:46: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-10-07T22:27:46: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-10-07T22:27:46: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-10-07T22:27:46: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-10-07T22:27:46: PM2 log: Worker Interval      : 30000
+2021-10-07T22:27:46: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-10-07T22:27:46: PM2 log: Concurrent actions   : 2
+2021-10-07T22:27:46: PM2 log: SIGTERM timeout      : 1600
+2021-10-07T22:27:46: PM2 log: ===============================================================================
+2021-10-08T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-08T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-09T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-09T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-10T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-10T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-11T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-11T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-12T22:27:47: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-12T22:27:47: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-13T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-13T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-14T22:27:48: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-14T22:27:48: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-15T14:28:36: PM2 log: ===============================================================================
+2021-10-15T14:28:36: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-10-15T14:28:36: PM2 log: Time                 : Fri Oct 15 2021 14:28:36 GMT-0400 (Eastern Daylight Time)
+2021-10-15T14:28:36: PM2 log: PM2 version          : 5.1.1
+2021-10-15T14:28:36: PM2 log: Node.js version      : 10.19.0
+2021-10-15T14:28:36: PM2 log: Current arch         : x64
+2021-10-15T14:28:36: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-10-15T14:28:36: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-10-15T14:28:36: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-10-15T14:28:36: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-10-15T14:28:36: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-10-15T14:28:36: PM2 log: Worker Interval      : 30000
+2021-10-15T14:28:36: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-10-15T14:28:36: PM2 log: Concurrent actions   : 2
+2021-10-15T14:28:36: PM2 log: SIGTERM timeout      : 1600
+2021-10-15T14:28:36: PM2 log: ===============================================================================
+2021-10-16T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-16T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-17T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-17T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-18T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-18T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-19T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-19T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-20T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-20T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-21T14:28:38: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-21T14:28:38: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-22T14:28:37: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-22T14:28:37: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-22T14:41:04: PM2 log: PM2 successfully stopped
+2021-10-22T14:44:27: PM2 log: ===============================================================================
+2021-10-22T14:44:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-10-22T14:44:27: PM2 log: Time                 : Fri Oct 22 2021 14:44:27 GMT-0400 (Eastern Daylight Time)
+2021-10-22T14:44:27: PM2 log: PM2 version          : 5.1.1
+2021-10-22T14:44:27: PM2 log: Node.js version      : 10.19.0
+2021-10-22T14:44:27: PM2 log: Current arch         : x64
+2021-10-22T14:44:27: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-10-22T14:44:27: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-10-22T14:44:27: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-10-22T14:44:27: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-10-22T14:44:27: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-10-22T14:44:27: PM2 log: Worker Interval      : 30000
+2021-10-22T14:44:27: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-10-22T14:44:27: PM2 log: Concurrent actions   : 2
+2021-10-22T14:44:27: PM2 log: SIGTERM timeout      : 1600
+2021-10-22T14:44:27: PM2 log: ===============================================================================
+2021-10-23T14:44:28: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-23T14:44:28: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-24T14:44:28: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-24T14:44:28: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-25T14:44:28: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-25T14:44:28: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-26T11:50:31: PM2 log: PM2 successfully stopped
+2021-10-26T11:53:55: PM2 log: ===============================================================================
+2021-10-26T11:53:55: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-10-26T11:53:55: PM2 log: Time                 : Tue Oct 26 2021 11:53:55 GMT-0400 (Eastern Daylight Time)
+2021-10-26T11:53:55: PM2 log: PM2 version          : 5.1.1
+2021-10-26T11:53:55: PM2 log: Node.js version      : 10.19.0
+2021-10-26T11:53:55: PM2 log: Current arch         : x64
+2021-10-26T11:53:55: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-10-26T11:53:55: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-10-26T11:53:55: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-10-26T11:53:55: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-10-26T11:53:55: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-10-26T11:53:55: PM2 log: Worker Interval      : 30000
+2021-10-26T11:53:55: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-10-26T11:53:55: PM2 log: Concurrent actions   : 2
+2021-10-26T11:53:55: PM2 log: SIGTERM timeout      : 1600
+2021-10-26T11:53:55: PM2 log: ===============================================================================
+2021-10-27T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-27T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-28T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-28T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-29T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-29T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-30T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-30T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-10-31T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-10-31T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-01T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-01T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-02T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-02T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-03T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-03T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-04T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-04T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-05T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-05T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-06T11:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-06T11:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-07T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-07T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-08T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-08T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-09T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-09T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-10T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-10T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-11T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-11T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-12T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-12T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-13T10:53:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-13T10:53:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-13T15:45:44: PM2 log: ===============================================================================
+2021-11-13T15:45:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-11-13T15:45:44: PM2 log: Time                 : Sat Nov 13 2021 15:45:44 GMT-0500 (Eastern Standard Time)
+2021-11-13T15:45:44: PM2 log: PM2 version          : 5.1.1
+2021-11-13T15:45:44: PM2 log: Node.js version      : 10.19.0
+2021-11-13T15:45:44: PM2 log: Current arch         : x64
+2021-11-13T15:45:44: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-11-13T15:45:44: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-11-13T15:45:44: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-11-13T15:45:44: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-11-13T15:45:44: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-11-13T15:45:44: PM2 log: Worker Interval      : 30000
+2021-11-13T15:45:44: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-11-13T15:45:44: PM2 log: Concurrent actions   : 2
+2021-11-13T15:45:44: PM2 log: SIGTERM timeout      : 1600
+2021-11-13T15:45:44: PM2 log: ===============================================================================
+2021-11-14T15:45:45: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-14T15:45:45: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-15T15:52:53: PM2 log: ===============================================================================
+2021-11-15T15:52:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-11-15T15:52:53: PM2 log: Time                 : Mon Nov 15 2021 15:52:53 GMT-0500 (Eastern Standard Time)
+2021-11-15T15:52:53: PM2 log: PM2 version          : 5.1.1
+2021-11-15T15:52:53: PM2 log: Node.js version      : 10.19.0
+2021-11-15T15:52:53: PM2 log: Current arch         : x64
+2021-11-15T15:52:53: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2021-11-15T15:52:53: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2021-11-15T15:52:53: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2021-11-15T15:52:53: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2021-11-15T15:52:53: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2021-11-15T15:52:53: PM2 log: Worker Interval      : 30000
+2021-11-15T15:52:53: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2021-11-15T15:52:53: PM2 log: Concurrent actions   : 2
+2021-11-15T15:52:53: PM2 log: SIGTERM timeout      : 1600
+2021-11-15T15:52:53: PM2 log: ===============================================================================
+2021-11-16T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-16T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-17T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-17T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-18T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-18T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-19T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-19T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-20T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-20T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-21T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-21T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-22T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-22T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-23T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-23T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-24T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-24T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-25T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-25T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-26T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-26T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-27T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-27T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-28T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-28T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-29T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-29T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-11-30T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-11-30T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-01T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-01T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-02T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-02T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-03T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-03T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-04T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-04T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-05T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-05T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-06T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-06T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-07T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-07T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-08T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-08T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-09T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-09T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-10T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-10T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-11T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-11T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-12T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-12T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-13T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-13T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-14T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-14T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-15T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-15T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-16T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-16T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-17T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-17T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-18T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-18T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-19T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-19T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-20T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-20T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-21T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-21T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-22T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-22T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-23T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-23T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-24T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-24T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-25T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-25T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-26T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-26T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-27T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-27T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-28T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-28T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-29T15:52:54: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-29T15:52:54: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-30T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-30T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2021-12-31T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-12-31T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-01T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-01T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-02T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-02T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-03T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-03T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-04T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-04T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-05T15:52:56: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-05T15:52:56: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-06T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-06T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-07T15:52:55: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-07T15:52:55: PM2 log: [PM2] Upgrade to version 5.1.2
+2022-01-08T15:30:35: PM2 log: PM2 successfully stopped
+2022-01-08T15:32:58: PM2 log: ===============================================================================
+2022-01-08T15:32:58: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-01-08T15:32:58: PM2 log: Time                 : Sat Jan 08 2022 15:32:58 GMT-0500 (Eastern Standard Time)
+2022-01-08T15:32:58: PM2 log: PM2 version          : 5.1.1
+2022-01-08T15:32:58: PM2 log: Node.js version      : 10.19.0
+2022-01-08T15:32:58: PM2 log: Current arch         : x64
+2022-01-08T15:32:58: PM2 log: PM2 home             : /home/tjdokas/code/website/.pm2
+2022-01-08T15:32:58: PM2 log: PM2 PID file         : /home/tjdokas/code/website/.pm2/pm2.pid
+2022-01-08T15:32:58: PM2 log: RPC socket file      : /home/tjdokas/code/website/.pm2/rpc.sock
+2022-01-08T15:32:58: PM2 log: BUS socket file      : /home/tjdokas/code/website/.pm2/pub.sock
+2022-01-08T15:32:58: PM2 log: Application log path : /home/tjdokas/code/website/.pm2/logs
+2022-01-08T15:32:58: PM2 log: Worker Interval      : 30000
+2022-01-08T15:32:58: PM2 log: Process dump file    : /home/tjdokas/code/website/.pm2/dump.pm2
+2022-01-08T15:32:58: PM2 log: Concurrent actions   : 2
+2022-01-08T15:32:58: PM2 log: SIGTERM timeout      : 1600
+2022-01-08T15:32:58: PM2 log: ===============================================================================
+2022-01-09T15:32:59: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-01-09T15:32:59: PM2 log: [PM2] Upgrade to version 5.1.2
