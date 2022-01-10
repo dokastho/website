@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/tjdokas/code/website
+rm html/portfolio -r
+generator portfolio -o html/portfolio

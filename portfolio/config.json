@@ -7,27 +7,27 @@
                 {
                     "name": "Stores",
                     "desc": "Problem from job interview",
-                    "link": "/projects/stores"
+                    "link": "/portfolio/projects/stores"
                 },
                 {
                     "name": "Skip List",
                     "desc": "Self-directed learning of an efficient abstract data type",
-                    "link": "/projects/skiplist"
+                    "link": "/portfolio/projects/skiplist"
                 },
                 {
                     "name": "Hash Table",
                     "desc": "Implementation of a hash table abstract data type",
-                    "link": "/projects/hashtable"
+                    "link": "/portfolio/projects/hashtable"
                 },
                 {
                     "name": "Knapsack",
                     "desc": "Efficient smart-greedy algorithm implementation",
-                    "link": "/projects/knapsack"
+                    "link": "/portfolio/projects/knapsack"
                 },
                 {
                     "name": "Fibonacci Sequence",
                     "desc": "Dynamic Programming application",
-                    "link": "/projects/fibdp"
+                    "link": "/portfolio/projects/fibdp"
                 }
             ]
         }
@@ -42,7 +42,7 @@
         }
     },
     {
-        "url": "/project/skiplist/",
+        "url": "/projects/skiplist/",
         "template": "project.html",
         "context": {
             "name": "Skip List",
