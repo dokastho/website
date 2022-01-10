@@ -1,0 +1,80 @@
+[
+    {
+        "url": "/",
+        "template": "index.html",
+        "context": {
+            "projects": [
+                {
+                    "name": "Stores",
+                    "desc": "Problem from job interview",
+                    "link": "/projects/stores"
+                },
+                {
+                    "name": "Skip List",
+                    "desc": "Self-directed learning of an efficient abstract data type",
+                    "link": "/projects/skiplist"
+                },
+                {
+                    "name": "Hash Table",
+                    "desc": "Implementation of a hash table abstract data type",
+                    "link": "/projects/hashtable"
+                },
+                {
+                    "name": "Knapsack",
+                    "desc": "Efficient smart-greedy algorithm implementation",
+                    "link": "/projects/knapsack"
+                },
+                {
+                    "name": "Fibonacci Sequence",
+                    "desc": "Dynamic Programming application",
+                    "link": "/projects/fibdp"
+                }
+            ]
+        }
+    },
+    {
+        "url": "/projects/stores",
+        "template": "project.html",
+        "context": {
+            "name": "Stores",
+            "desc": "Problem from job interview",
+            "link": "https://github.com/dokastho/stores-snapshot"
+        }
+    },
+    {
+        "url": "/project/skiplist",
+        "template": "project.html",
+        "context": {
+            "name": "Skip List",
+            "desc": "Self-directed learning of an efficient abstract data type",
+            "link": "https://github.com/dokastho/skip-list-snapshot"
+        }
+    },
+    {
+        "url": "/projects/hashtable",
+        "template": "project.html",
+        "context": {
+            "name": "Hash Table",
+            "desc": "Implementation of a hash table abstract data type",
+            "link": "https://github.com/dokastho/hash-table-snapshot"
+        }
+    },
+    {
+        "url": "/projects/knapsack",
+        "template": "project.html",
+        "context": {
+            "name": "Knapsack",
+            "desc": "Efficient smart-greedy algorithm implementation",
+            "link": "https://github.com/dokastho/knapsack-snapshot"
+        }
+    },
+    {
+        "url": "/projects/fibdp",
+        "template": "project.html",
+        "context": {
+            "name": "Fibonacci Sequence",
+            "desc": "Dynamic Programming application",
+            "link": "https://github.com/dokastho/fib-dp-snapshot"
+        }
+    }
+]
