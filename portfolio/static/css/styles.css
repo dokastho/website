@@ -13,11 +13,16 @@ a {
 
 .wrapper {
     display: block;
+    margin: 1%;
+    padding: 2%;
 }
 
 .project {
-    display: grid;
+    display: inline-block;
     border: 2px solid grey;
-    border-radius: 4%;
-    width: auto;
+    border-radius: 5%;
+    width: 20%;
+    height:15%;
+    margin: 1%;
+    padding: 2%;
 }
