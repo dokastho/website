@@ -1,8 +1,6 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
 node_modules/*
 project.Rproj
 env
 generator
+generator.egg-info
+.*

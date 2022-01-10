@@ -33,7 +33,7 @@
         }
     },
     {
-        "url": "/projects/stores",
+        "url": "/projects/stores/",
         "template": "project.html",
         "context": {
             "name": "Stores",
@@ -42,7 +42,7 @@
         }
     },
     {
-        "url": "/project/skiplist",
+        "url": "/project/skiplist/",
         "template": "project.html",
         "context": {
             "name": "Skip List",
@@ -51,7 +51,7 @@
         }
     },
     {
-        "url": "/projects/hashtable",
+        "url": "/projects/hashtable/",
         "template": "project.html",
         "context": {
             "name": "Hash Table",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "url": "/projects/knapsack",
+        "url": "/projects/knapsack/",
         "template": "project.html",
         "context": {
             "name": "Knapsack",
@@ -69,7 +69,7 @@
         }
     },
     {
-        "url": "/projects/fibdp",
+        "url": "/projects/fibdp/",
         "template": "project.html",
         "context": {
             "name": "Fibonacci Sequence",
