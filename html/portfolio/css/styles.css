@@ -21,8 +21,10 @@ a {
     display: inline-block;
     border: 2px solid grey;
     border-radius: 5%;
-    width: 20%;
-    height:15%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width:20%;
+    height:30%;
     margin: 1%;
     padding: 2%;
 }
